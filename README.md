@@ -25,16 +25,13 @@ additional_file.txt (or .md): Any additional documentation or explanation of fun
 # Projects
 EDA, Customer Insights - Blackwell e-Commerce (Python)
 
-Link to Project Folder
 EDA + Modeling, Solving a Business Case - Credit One Financial Crisis (Python)
 
-Link to Project Folder
-Market Basket Analysis - Electronidex (R)
+Market Basket Analysis - Electronidex (R) 
 
-Link to Project Folder
 AdventureWorks, Create a Dashboard from Scratch - Power BI
 
-Link to Project Folder
+
 # Technologies Used
 Programming Languages: Python, R
 Tools: Power BI
