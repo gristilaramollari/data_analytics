@@ -1,6 +1,6 @@
  # About me 
   
-Hi, I'm Gristila Ramollari, an enthusiastic and aspiring junior data analyst with a unique blend of skills and experiences. My journey, from studying civil engineering to navigating sales and finance roles, has fueled my passion for data analytics. Eqquiped with   foundation in mathematics and a diverse professional journey, I've honed my skills to excel in the field of data analytics.
+Hi, I'm Gristila Ramollari,a 23-year-old professional with a robust background in sales, client management, and financial advisory roles and aspiring junior data analyst . My journey, from studying civil engineering to navigating sales and finance roles, has fueled my passion for data analytics. Eqquiped with   foundation in mathematics and a diverse professional journey, I've honed my skills to excel in the field of data analytics.
 
 🔍  *My journey into data analytics began with a two-year study in civil engineering, providing me with mathematical background. Additionally, I've worked in both front and back office roles in sales and served as an account manager and financial advisor in a trading department. These experiences have equipped me with foundational skills that seamlessly align with the demands of data analytics.
 
