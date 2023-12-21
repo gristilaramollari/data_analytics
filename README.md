@@ -37,14 +37,13 @@ Programming Languages: Python, R
 Tools: Power BI
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Dplyr, Caret, ggplot2 (and more)
 Usage
-The projects primarily serve as a showcase of my data analytics skills. Feel free to consult the information provided in each project for insights and analysis.
-
+The projects primarily serve as a showcase of my data analytics skills.  
 # Acknowledgments
 I would like to express my gratitude to Ubiqum, the bootcamp school that has played a crucial role in my journey.
 
 # Contact Information
-Email: your@email.com
-LinkedIn: Your LinkedIn Profile
+Email: gristilaramollari99@gmail.com
+LinkedIn: Your LinkedIn Profile: Gristila Ramollari
 
 
 #
